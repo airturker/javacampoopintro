@@ -8,7 +8,7 @@ public class Main {
 		
 		Product product2 = new Product(2, "lenovo v15", 16000, "32 gb ram", 10); 
 				
-		Product product3 = new Product(); //product class ýndaki parametresiz class ý çalýþtýrýr.
+		Product product3 = new Product(); //product class ýndaki parametresiz class ý çalýþtýrýr...
 		product3.setId(3);
 		product3.setName("hp 5");
 		product3.setDetail("8 gb ram");
